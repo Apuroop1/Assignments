@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Apuroop1/Assignemnts/maps"
+	"github.com/Apuroop1/Assignemnts/Struct"
 )
 
 func main() {
@@ -14,5 +14,8 @@ func main() {
 	//Datatype.String()
 	//array.ArrayDemo()
 	//array.SliceDemo()
-	maps.MapDemo()
+	//maps.MapsDemo()
+	//conditional.IfDemo()
+	//looping.LoopingDemo()
+	Struct.StructDemo()
 }
